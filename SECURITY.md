@@ -13,7 +13,7 @@ This section outlines the versions of the Django Starter Kit currently being sup
 
 ## Reporting a Vulnerability
 
-We take security seriously. If you discover any security issues within the Django Starter Kit, please report them by reaching out to us directly via [support@codewithmuh.com]. We encourage responsible disclosure of vulnerabilities.
+We take security seriously. If you discover any security issues within the Django Starter Kit, please report them by reaching out to us directly via [support@SM.com]. We encourage responsible disclosure of vulnerabilities.
 
 ### Expectations
 
@@ -30,5 +30,5 @@ Thank you for contributing to the security of the Django Starter Kit!
 
 The Django Starter Kit offers a pre-configured development environment for Django-based applications, streamlining setup and enhancing productivity. Explore the power of Docker, PostgreSQL, ElasticSearch, Celery, and Swagger all in one place.
 
-Repository: [Django Starter Kit](https://github.com/codewithmuh/django-starter-kit)
+Repository: [Django Starter Kit](https://github.com/SM/django-starter-kit)
 License: MIT License

@@ -40,7 +40,7 @@ services:
       args:
         APP_ENVIRONMENT: 'Local'
     volumes:
-      - ../:/home/codewithmuh-backend
+      - ../:/home/SM-backend
     ports:
       - '8080:8080'
     env_file:
@@ -62,7 +62,7 @@ services:
       args:
         APP_ENVIRONMENT: 'Local'
     volumes:
-      - ../:/home/codewithmuh-backend
+      - ../:/home/SM-backend
     ports:
       - '5555:5555'
     env_file:
@@ -84,7 +84,7 @@ services:
       args:
         APP_ENVIRONMENT: 'Local'
     volumes:
-      - ../:/home/codewithmuh-backend
+      - ../:/home/SM-backend
     env_file:
       - ./local.backend.env
     depends_on:
